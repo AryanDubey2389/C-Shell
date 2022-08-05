@@ -1,0 +1,20 @@
+ls
+ls
+ls -ah
+ls -lh
+ls -h
+ls -l
+ls -la
+ls -a
+ls -
+ls -lh
+ls
+clear
+sl
+ls
+clear
+ls
+sl
+sl
+clear
+ufw
